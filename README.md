@@ -27,3 +27,7 @@ env:
 If successful then GHDL will quietly exit with a `0` code.
 If any of the `assert` statements fail **with** `severity failure` then GHDL will cease the simulation and exit with non-zero code; this will also cause the workflow to fail.
 Assert statements of other severity levels, such as "error" w
+
+## Waveform: https://usafa0-my.sharepoint.com/:i:/g/personal/c26andres_samson_afacademy_af_edu/EbbFMe5s1gNGpvA6A88tCTsBmxqe8L7rZIdN24taBOGqiQ?e=OrOug0
+
+## Documentation: C3C Jake Marbach helped me fix my register process
